@@ -1,0 +1,11 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1515254100245-67228492bf65?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c582af5a137dfb3b815d8b7f0b4e9b86&auto=format&fit=crop&w=1500&q=80);
+	padding-top: 70px;	
+}
+
+
+.navbar{
+	background-color: #2A2C3D;
+	font-family: 'Fjalla One', sans-serif;
+
+}
